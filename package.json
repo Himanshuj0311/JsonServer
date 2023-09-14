@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/shaikhshahbaz4022/JSON-Server#readme",
   "dependencies": {
+    "cors": "^2.8.5",
     "json-server": "^0.17.3"
   }
 }
